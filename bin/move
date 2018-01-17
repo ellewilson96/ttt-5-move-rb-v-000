@@ -12,5 +12,5 @@ Where would you like to go?
 
 input = gets.strip
 index = input_to_index(input)
-move(board, index, character)
+move(2, index, X)
 display_board(board)
