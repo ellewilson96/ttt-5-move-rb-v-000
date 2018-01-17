@@ -18,5 +18,3 @@ def input_to_index(numbers)
   "8".to_i-1
   "9".to_i-1
 end
-
-
