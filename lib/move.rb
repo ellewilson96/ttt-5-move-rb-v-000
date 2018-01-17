@@ -7,7 +7,7 @@ def display_board(board)
 end
 
 # code your input_to_index and move method here!
-def input_to_index("1" "2" "3" "4" "5" "6" "7" "8" "9")
+def input_to_index(input)
   "1".to_i-1
   "2".to_i-1
   "3".to_i-1
