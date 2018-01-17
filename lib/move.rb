@@ -8,5 +8,6 @@ end
 
 # code your input_to_index and move method here!
 def input_to_index(numbers)
+  numbers = "1" "2" "3" "4" "5" "6" "7" "8" "9"
   (numbers.to_i)- 1
 end
